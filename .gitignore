@@ -3,6 +3,7 @@
 
 # .py 파일만 추적
 !*.py
+!*.md
 
 # .gitignore 파일은 항상 추적
 !.gitignore
